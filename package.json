@@ -1,11 +1,22 @@
 {
-  "name": "express",
+  "name": "express_1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vizelY/first_project.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vizelY/first_project/issues"
+  },
+  "homepage": "https://github.com/vizelY/first_project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
